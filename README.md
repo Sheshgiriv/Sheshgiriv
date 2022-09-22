@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Checkout on my current project [here](https://www.youtube.com/watch?v=070B392Qvw8).
-- 🔭 I’m currently working on trying to bake a custom solution to a banking customer based on the IaC framework described [here](https://cloud.google.com/recommender/docs/tutorial-iac) utilizing the [library](https://cloud.google.com/asset-inventory/docs/libraries).
+- 🔭 I’m currently working on trying to bake a custom solution for a banking customer based on the IaC framework described [here](https://cloud.google.com/recommender/docs/tutorial-iac) utilizing the [library](https://cloud.google.com/asset-inventory/docs/libraries).
 - ## Looking for sponsorship to pursue 
 
 SANS SEC549: [Enterprise Cloud Security Architecture.](https://www.sans.org/cyber-security-courses/enterprise-cloud-security-architecture/)
