@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning ...
 
-          [Google Cloud Digital Leader.](https://partner.cloudskillsboost.google/course_sessions/1361225/documents/319734/)
+     [Google Cloud Digital Leader.](https://partner.cloudskillsboost.google/course_sessions/1361225/documents/319734/)
 
-          [GCP Professional Cloud Network Engineer.](https://partner.cloudskillsboost.google/course_sessions/1587448/documents/330341/)
+     [GCP Professional Cloud Network Engineer.](https://partner.cloudskillsboost.google/course_sessions/1587448/documents/330341/)
 - 👯 I’m looking to collaborate on ...
 -         Setting up a enterprise grade public cloud security lab with proper domain and to be used along with local cyber security community members.
 - 🤔 I’m looking for help with ...
