@@ -3,8 +3,9 @@
 
 **Sheshgiriv/Sheshgiriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+
+- Checkout on my current project [here](https://www.youtube.com/watch?v=070B392Qvw8).
 - 🔭 I’m currently working on trying to bake a custom solution to a banking customer based on the IaC framework described [here](https://cloud.google.com/recommender/docs/tutorial-iac) utilizing the [library](https://cloud.google.com/asset-inventory/docs/libraries).
 - ## Looking for sponsorship to pursue 
 
