@@ -22,6 +22,6 @@
 -      
 - 💬 Ask me about ...
 -         Cloud Security , securing CI/CD Pipelines, Cloud Identity , Cloud IAM
-- 📫 How to reach me: write to me at "venky-at-secavenue-dot-info"
+- 📫 How to reach me: https://www.linkedin.com/in/sheshgiriv/ 
 -   
 
