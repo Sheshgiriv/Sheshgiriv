@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Currently working on [here](https://learn.microsoft.com/en-us/security/privileged-access-workstations/).
-- Checkout on my previous project [here](https://www.youtube.com/watch?v=070B392Qvw8).
+- Currently working on project [here](https://learn.microsoft.com/en-us/security/privileged-access-workstations/).
+- Checkout out my previous project [here](https://www.youtube.com/watch?v=070B392Qvw8).
 - 🔭
 
 <!-- 
