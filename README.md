@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- Currently working on project [here](https://learn.microsoft.com/en-us/security/privileged-access-workstations/).
-- Checkout out my previous project [here](https://www.youtube.com/watch?v=070B392Qvw8).
+- Currently working on RBAC Project for Azure and Google Cloud platforms.
+- Checkout out my previous projects 
+     -  [GCP IAM Solutioning](https://www.youtube.com/watch?v=070B392Qvw8).
+     -  [Privileged Access Workstation](https://learn.microsoft.com/en-us/security/privileged-access-workstations/).
 - 🔭
 
 <!-- 
@@ -15,13 +17,14 @@
 - 🌱 I’m currently learning ...
 
      -  [Preparing for Microsoft CyberSecurity Architect.](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100)
-     -  [Preparing for Your Professional Cloud Network Engineer Journey.](https://www.cloudskillsboost.google/course_templates/383)
+<!--     -  [Preparing for Your Professional Cloud Network Engineer Journey.](https://www.cloudskillsboost.google/course_templates/383) 
+-->
 - 👯 I’m looking to collaborate on ...
 -         Setting up a enterprise grade public cloud security lab with proper domain and org structure across all 3 major cloud service providers planning to use along with local cyber security community members.
 - 🤔 I’m looking for help with ...
 -      
 - 💬 Ask me about ...
--         Cloud Security , securing CI/CD Pipelines, Cloud Identity , Cloud IAM
+-         Identity Governance,Cloud Security,SOD's,Cloud Identity, Cloud IAM
 - 📫 How to reach me: https://www.linkedin.com/in/sheshgiriv/ 
 -   
 
